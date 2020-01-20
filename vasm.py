@@ -458,7 +458,7 @@ def code_map(lex=[],lt=0,lex_len=0):
 	return icode
 	pass
 if '-h' in sys.argv or len(sys.argv)==1:
-	print("Usage : cyka.py <filename> <options>")
+	print("Usage : vasm.py <filename> <options>")
 	print("OPTIONS:-")
 	print("-h : Help")
 	print("-d : Debug Info")
