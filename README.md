@@ -1,12 +1,13 @@
 # VASM
 A Python3 based Virtual Assembler.
 <br>
-SIC Table
+Symbolic Instruction Code(SIC) Table
 <br>
-| Class | Code                                                                     |<br>
-|-------|--------------------------------------------------------------------------|<br>
-| 1     | "STOP","ADD","SUB","MULT","MOVR","MOVM","COMP","BC","DIV","READ","PRINT" |<br>
-| 2     | "DS","DC"                                                                |<br>
-| 3     | "START","END","ORG","EQU","LTORG"                                        |<br>
-| 4     | "AREG","BREG","CREG","DREG"                                              |<br>
-| 5     | "EQ","LT","GT","LE","GE","NE","ANY"                                      |<br>
+<table>
+  <tr><th>Class</th><th>Code</th></tr>
+  <tr><td>1</td><td>"STOP","ADD","SUB","MULT","MOVR","MOVM","COMP","BC","DIV","READ","PRINT"</td></tr>
+  <tr><td>2</td><td>"DS","DC"</td></tr>
+  <tr><td>3</td><td>"START","END","ORG","EQU","LTORG"</td></tr>
+  <tr><td>4</td><td>"AREG","BREG","CREG","DREG"</td></tr>
+  <tr><td>5</td><td>"EQ","LT","GT","LE","GE","NE","ANY"</td></tr>
+ </table>
