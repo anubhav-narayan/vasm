@@ -11,3 +11,7 @@ Symbolic Instruction Code(SIC) Table
   <tr><td>4</td><td>"AREG","BREG","CREG","DREG"</td></tr>
   <tr><td>5</td><td>"EQ","LT","GT","LE","GE","NE","ANY"</td></tr>
  </table>
+<h3>Introduction</h3>
+<p>
+  This is a simple 2-Pass Assembler Script in Python3 that is to be used as an educational tool to write assembly programs for a given set of instructions. It is to be used only for Numeric Data in Decimal Integers.
+</p>
